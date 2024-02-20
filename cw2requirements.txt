@@ -1,0 +1,6 @@
+Requirements:
+tkinter
+base64
+binascii
+codecs
+urllib.parse
